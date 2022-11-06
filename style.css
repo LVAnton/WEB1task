@@ -1,0 +1,416 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Nunito:wght@700&family=Poppins:wght@500&family=Work+Sans:wght@400;500&display=swap');
+.mon{
+	font-family: 'Montserrat', sans-serif;
+}
+.pop{
+	font-family: 'Poppins', sans-serif;
+}
+.work{
+	font-family: 'Work Sans', sans-serif;
+}
+.nun{
+	font-family: 'Nunito', sans-serif;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.content{
+	position: relative;
+	width:100%;
+}
+.cool-flex{
+	display:flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 142px;
+	width:1280px;
+}
+.container{
+	max-width: 1280px;
+	display:block;
+	margin: 0 auto;
+}
+.header-image-zone{
+}
+.header-text-zone{
+	margin-right: 89px;
+}
+.header-high-first{
+font-weight: 700;
+font-size: 14px;
+Line-height: 20px;
+color: #156963;
+}
+.highlight{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 68px;
+	line-height: 83px;
+	color: #156963;
+	max-width: 523px;
+	margin-left: -7px;
+}
+.underhighlight{
+	max-width: 493px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 32px;
+	color: #2C1500;
+	opacity: 0.8;
+}
+header{
+	width: 1280px;
+}
+.header-image{
+	float: left;
+}
+
+.header-menu{
+	display: flex;
+	justify-content: right;
+	align-items: center;
+	margin-right: 2px;
+}
+.header-high-first{
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	color: #156963;
+}
+.header-high-second{
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+.header-text{
+}
+
+.header-menu-item{
+	margin-top: 45px;
+	border: 0px;
+}
+.header-menu-first{
+	margin-top: 47px;
+	margin-right: 45px;
+}
+.header-menu-second{
+	margin-top: 48px;
+}
+
+.text-menu1{
+	font-size: 20px;
+	height: 36px;
+	width: 111px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #FFFFFF;
+}
+.text-menu2{
+	font-size: 20px;
+	height: 36px;
+	width: 111px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #156963;
+}
+
+
+
+
+
+
+
+
+.val{
+	box-sizing: border-box;
+	background: #FFFFFF;
+	border: 1px solid #E0E0E0;
+}
+.valuables{
+	display: flex;
+	max-width: 1168px;
+}
+.val{
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	background: #FFFFFF;
+   border: 1px solid #E0E0E0;
+}
+.val{margin-left:32px}
+.val-first{margin-left: 0px;}
+.val-first-row{
+	display: flex;
+}
+.val-high{
+	font-family: 'Montserrat';
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	color: #156963;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.val-image{
+	margin-left: 13px;
+	margin-top: 18px;
+}
+.val-regular{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 16px;
+	color: #2C1500;
+	padding-left: 15px;
+	padding-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+.card-highlight{
+	text-align: center;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	color: #000000;
+	margin-top: 60px;
+}
+.card-container{
+	margin: 0 auto;
+	max-width: 1168px;
+	display: flex;
+	flex-direction:row;
+}
+.line{
+	margin: 0 auto;
+	height: 1px;
+	width: 1168px;
+	background-color: #E0E0E0;
+	margin-bottom: 31px;
+}
+.card{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-right: 21px;
+}
+.last-card{
+	margin-right: 0px;
+}
+.back{
+	height: 217px;
+	width: 217px;
+	background-color: #F3F4F6;
+}
+
+
+
+
+.big-block{
+	width: 1168px;
+	margin-top: 70px;
+}
+.big-left{
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+}
+.big-hightlight{
+	margin-top: 10px;
+	max-width: 522px;
+	margin-left: 30px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 56px;
+	color: #2C1500;
+}
+.big-text{
+	margin-top: -30px;
+	max-width: 522px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;
+	color: #2C1500;
+	opacity: 0.8;
+	margin-left: 30px;
+	margin-bottom:78px;
+}
+.big-left{
+	float: left;
+}
+.big-right{
+	float: right;
+}
+
+
+
+
+
+
+
+
+.last-block{
+	width: 1168px;
+	background-color: #F9FAFB;
+	margin-top: 76px;
+}
+.last-text{
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+	float: left
+}
+.last-highlight{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 56px;
+	color: #2C1500;
+	margin-top: 88px;
+	margin-left: 97px;
+}
+.last-right{
+	float: right;
+}
+.last-button{
+	color: #fff;
+	background: #156963;
+	margin-left: 97px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 42px;
+	max-width: 120px;
+
+}
+.liner{
+	height: 1px;
+	width: 1280px;
+	background-color: #E0E0E0;
+	margin-top:80px;
+}
+
+
+
+
+
+footer{width:946px;
+margin: 0 auto;
+background-color: white;}
+.contacts{display: flex;
+justify-content: space-between;
+margin-bottom: 55px;}
+.column{display: flex;
+flex-direction: column;
+}
+.final-name{
+	color: #156963;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 24px;
+}
+.final-namer{
+	color: #333333;
+	font-family: 'Work Sans';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	margin-top: 0px;
+}
+.final-last{
+	font-family: 'Work Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 20px;
+	color: #4F4F4F;
+}
+.final-subname{
+	font-family: 'Work Sans';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 16px;
+	color: #000000;
+}
+.final-standart{
+	font-family: 'Work Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+	color: #000000;
+}
+.final-form{
+	width: 234px;
+	padding: 8px 8px 8px 8px;
+}
+.final-button{
+	width: 25px;
+	height: 16px;
+   background: #156963;
+	backdrop-filter: blur(5px);
+	border-radius: 2px;
+	color: white;
+	padding: 4px 12px;
+	font-weight: 500;
+	font-size: 8px;
+	line-height: 14px;
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+.final-mone{
+	margin: 0px;
+}
+.work{
+	margin-top: 8px;
+}
+.final-name{
+	margin-top: 10px;
+}
+.final-namer{
+	margin-top:0px;
+}
+.final-mone{
+	margin-top:0px;
+}
+.t{
+	margin-top: 8px;
+}
